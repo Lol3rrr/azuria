@@ -1,0 +1,16 @@
+body {
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #222222;
+  background-attachment: fixed;
+  text-align: center;
+  color: #F1F1F1;
+}
+.header {
+  padding: 15px;
+  height: 400px;
+}
+.contentPart {
+  background-color: #222222;
+}

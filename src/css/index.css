@@ -1,5 +1,9 @@
 body {
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
   background-color: #222222;
+  background-attachment: fixed;
   text-align: center;
   color: #F1F1F1;
 }
@@ -34,8 +38,7 @@ body {
 
 .header {
   padding: 15px;
-  padding-top: 75px;
-  padding-bottom: 75px;
+  height: 400px;
 }
 
 h1 {
